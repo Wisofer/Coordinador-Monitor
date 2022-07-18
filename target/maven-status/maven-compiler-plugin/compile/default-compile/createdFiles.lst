@@ -1,0 +1,9 @@
+Coordinador/ServidorCoordinador.class
+Coordinador/ICoordinador.class
+com/mycompany/coordinadormonitor/Cliente/Cliente.class
+Monitor/IMonitor.class
+Utilidades/Utilidades.class
+com/mycompany/coordinadormonitor/Cliente/Constantes/Constantes.class
+Coordinador/Coordinador.class
+Monitor/Monitor.class
+Monitor/ServidorMonitor.class
